@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pth
+data/
+attribution_project/
+gradcam_results/

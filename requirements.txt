@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+scikit-image
+scikit-learn
+matplotlib
+tqdm
+opencv-python
+pillow
+grad-cam
+sentence-transformers
